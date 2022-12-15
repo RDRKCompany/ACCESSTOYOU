@@ -2,7 +2,7 @@ package abstractmethod;
 
 import accessmodifierstest1.ClassA;
 
-//changed
+//changed  in eclipse  // after chaging of the code from github
 public  abstract  class Abstrac_Methods {		//abstract class
 	
 	 abstract  void m1();						//abstract method
