@@ -11,8 +11,6 @@ public class ClassB extends ClassA {
 													
 		protectedmethod();                 		  //protectedmethod
 		
-		
-		
 	}
 
 }
