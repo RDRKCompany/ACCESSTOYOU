@@ -5,7 +5,7 @@ public class ClassA {
 	public static void main(String[] args) 
 
 	{
-		
+		console.log("dvkjvnk");
 		defaultmethod();
 		privatemethod();
 		protectedmethod();
